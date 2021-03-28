@@ -50,3 +50,10 @@ BZ是一个二进制编辑器，在前几天会有一定的使用，先添加进
 用汇编语言写的程序，编译后跟前面一样
 
 ### 编译运行
+
+删除之前的helloos.img
+
+`..\z_tools\nask.exe helloos.nas helloos.img`
+
+运行成功，重新出现helllos.img且运行成功
+![图 2](../images/b639f62a2a1602ae94480c124f878ef6bc255709e6859df6b4d4e263d5aca36f.png)  
