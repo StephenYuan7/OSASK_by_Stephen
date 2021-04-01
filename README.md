@@ -11,3 +11,5 @@
 ## 进度条
 
 ### DAY1
+
+![图 1](images/440689665608e80f5f4d5febaf4e74109a192089475075baa6fd261e7b74cddd.png)  
