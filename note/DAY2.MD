@@ -94,3 +94,9 @@ JMP		entry
 
 成功运行
 ![图 4](../images/f02037d97a782cb24f6cf042daaa5ca06823e531125a8034fa033b8ba31053f2.png)  
+
+## 开始整活
+
+首先更改显示内容，"hello world"改成"hello curry"成功
+![图 6](../images/cf751d54171c686d8358eec54caa14f1a2308c636e0e05f6465395bd26e771d8.png)  
+
