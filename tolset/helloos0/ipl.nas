@@ -6,7 +6,7 @@
 	JMP		entry
 	DB		0x90
 	DB		"HELLOIPL"
-	DB		512
+	DW		512
 	DB		1
 	DW		1
 	DB		2
@@ -48,7 +48,7 @@
 			JMP		fin
 	msg:
 			DB		0x0a, 0x0a
-			DB		"hello,world"
+			DB		"hello, world"
 			DB		0x0a
 			DB		0
 	
