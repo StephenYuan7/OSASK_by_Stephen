@@ -50,7 +50,7 @@
 			DB		0x0a, 0x0a
 			DB		"hello,world"
 			DB		0x0a
-			DB		0			DB		0
+			DB		0
 	
 			RESB	0x7dfe-$		
 
