@@ -16,3 +16,7 @@
 ### DAY1
 
 ![图 1](images/440689665608e80f5f4d5febaf4e74109a192089475075baa6fd261e7b74cddd.png)  
+
+### DAY2
+
+![图 10](images/bb7b2b5a05fda1c38f6e68978227ac3c6a247813f14dbf11cc10d00fdfbc21c1.png)  
