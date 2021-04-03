@@ -40,7 +40,7 @@
 
 			JE		fin
 			MOV		AH,0x0e
-			MOV		BX,15
+			MOV		BX,10
 			INT		0x10
 			JMP		putloop
 	fin:
@@ -48,7 +48,7 @@
 			JMP		fin
 	msg:
 			DB		0x0a, 0x0a
-			DB		"hello, curry"
+			DB		"hello,curry"
 			DB		0x0a
 			DB		0
 	

@@ -42,7 +42,7 @@
     40 00007C66                                 
     41 00007C66 74 09                           			JE		fin
     42 00007C68 B4 0E                           			MOV		AH,0x0e
-    43 00007C6A BB 000F                         			MOV		BX,15
+    43 00007C6A BB 000A                         			MOV		BX,10
     44 00007C6D CD 10                           			INT		0x10
     45 00007C6F EB EE                           			JMP		putloop
     46 00007C71                                 	fin:

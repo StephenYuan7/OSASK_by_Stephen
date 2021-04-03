@@ -97,6 +97,15 @@ JMP		entry
 
 ## 开始整活
 
-首先更改显示内容，"hello world"改成"hello curry"成功
+首先更改显示内容，"hello world"改成"hello, curry"成功
 ![图 6](../images/cf751d54171c686d8358eec54caa14f1a2308c636e0e05f6465395bd26e771d8.png)  
+
+刚刚字节一样，现在改成不一样的,"hello world"改成"hello,curry"成功
+![图 7](../images/f7b61d29c4b81483547f5f376339c51c77efa0a6de99fe7b5e3ab02fcbb7a43f.png)  
+
+书上说，可以更改颜色，将`MOV		BX,10`
+![图 1](../images/7f6e2778d8232f2e5b0ea3c4d89a2b022141383e59b2f91c6dd64eea4ac3e839.png) 
+
+然而没有变化
+![图 9](../images/fa749f38ae4a5fc2d8b4c0cf4499811a052db2290632cbab07db22ab35bd59bc.png)  
 
