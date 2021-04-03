@@ -82,3 +82,15 @@ JMP		entry
 			JMP		fin
 ```
 后面的msg就是输入一下字符，值得注意的是**0x0a**意为换行符，参见ascii码表即可
+
+## mikefile
+
+这一天后面在介绍mikefile，这里就不多介绍了
+第一次启动失败
+![图 2](../images/ad743d6c9d22c32e4bf0e989cb7dedc4cc7678f807a7302ebaf16e619c77a255.png)  
+
+仔细对照后发现是这里错了,DW写成了DD
+![图 3](../images/96c81ec105c9d888acf2dca21f21e2be237ff0e3148c8600516e2dcd739ff00f.png)  
+
+成功运行
+![图 4](../images/f02037d97a782cb24f6cf042daaa5ca06823e531125a8034fa033b8ba31053f2.png)  
